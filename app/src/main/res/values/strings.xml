@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PodcasTiny</string>
+    <string name="button_text">Open File</string>
+</resources>
